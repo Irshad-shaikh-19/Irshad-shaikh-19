@@ -11,7 +11,7 @@
 
 <div align="left">
     <ul>
-        <li>🌱 I’m currently learning <strong>React, Node.js, Express, and MongoDB</strong></li>
+        <li>🌱 Full Stack Developer <strong>React, Node.js, Express, and MongoDB</strong></li>
         <li>📫 How to reach me: <strong>irshadshaikh7228@gmail.com</strong></li>
         <li>⚡ Fun fact: <strong>Every time I fix a bug, I feel like I just saved the world! 🌍🦸‍♂️</strong></li>
     </ul>
